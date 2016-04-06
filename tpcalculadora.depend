@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1459960006 source:d:\用户目录\我的文档\github\tp_laboratorio_1\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1459960028 d:\用户目录\我的文档\github\tp_laboratorio_1\tpcalculadora\funciones.h
+
